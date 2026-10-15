@@ -193,7 +193,7 @@ perimeter-guard-asa/
 1. Download and install **Cisco Packet Tracer** (v8.0+).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/jahanzaib-147/perimeter-guard-asa.git
+   git clone https://github.com/jahanzaib-147/Perimeter-Guard-Cisco-ASA-Firewall-Defense.git
    cd perimeter-guard-asa
    ```
 3. Open `packet-tracer/perimeter-guard-firewall.pkt`.
